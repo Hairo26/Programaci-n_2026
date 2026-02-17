@@ -1,0 +1,18 @@
+
+Fecha 16/2/2026 hora 23:38
+
+calculadora de Edad en Días
+declaro variables
+ le pido el nombre al usaurio
+ le pido la  fecha y año que nacio
+ calculo la edad del usuario en días
+le muestro el mensaje con el nombre, edad y días que tiene el usuario
+
+Lo que aprendí
+aprendí a mostrar los años cumplidos en días
+encontré los errores de los pasos que me había saltado como variables que olvide declarar y comas y orden que no mostré en su momento debido a que estaba todo desordenado y no se entendía dicho mensaje.
+
+lo que falle
+las comas y los espacios para mostrar un mejor mensaje.
+no declare las variables que se pedían como los días, dando por hecho que solo se ocupaban solo las de los años cuando se ocupan las de los días.
+
